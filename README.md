@@ -1,4 +1,4 @@
-# Hidden
+# Hidden sry It's not uploaded yet..!! Wait for it..!!
 
 All you have to do is clone this repository and run the script in your Linux machine  
 Steps to do :
