@@ -13,8 +13,7 @@ $cd Hidden
 3) Now check the files by typing 
 ```bash
 $ls
-```
-if you see a number of files in it, then you should be happy about it.  
+```  
 4) Now change the permissions of the shell script you downloaded by typing 
 ```bash
 $chmod +x hidden.sh   
